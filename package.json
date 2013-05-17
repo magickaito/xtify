@@ -1,0 +1,19 @@
+{
+  "name": "xtify",
+  "version": "0.0.3",
+  "description": "a reusable module to talk to xtify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "xtify",
+    "push"
+  ],
+  "author": "Terrence Tee",
+  "license": "BSD",
+  "dependencies": {
+    "request":"latest"
+  }
+}
